@@ -13,7 +13,12 @@
 
 ## ** Aditi AWS AI Portfolio ** ##
 
-<a href="https://github.com/aditikhare007/Aditi-AI-Research-Specialist-Portfolio" class="button icon search"> ** Aditi AWS AI Portfolio** </a> 
+<a href="https://github.com/aditikhare007/Aditi_AWS_AI_Portfolio" class="button icon search"> ** Aditi AWS AI Portfolio** </a> 
+
+
+
+
+
 
 ## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
