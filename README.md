@@ -325,9 +325,9 @@ https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFiel
 
 https://aws.amazon.com/architecture/cloud-foundations/
 
-Reference - AWS Official Website and Documentation 
+## Reference - AWS Official Website and Documentation ##
 
-## Thank you AI community for visiting my repository - Stay tuned for awesome AI Research Learning Resources ##
+## Thank you AI community for visiting my repository - Stay tuned for awesome AWS AI Research Learning Resources ##
 If you find the repository useful please give it a star - Thank you for visting my repository - Happy Learning !!
  
 
