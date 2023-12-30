@@ -17,6 +17,17 @@
 
 ## AWS & AI Research Specialist ##
 
+### Machine Learning (ML) and Artificial Intelligence (AI) ###
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+
+### Generative AI for every business ###
+https://aws.amazon.com/generative-ai/
+
+### Amazon Web Services AI Services ###
+https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning
+
+
+
 
 
 
