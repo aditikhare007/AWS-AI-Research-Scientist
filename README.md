@@ -23,11 +23,20 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.htm
 ### Generative AI for every business ###
 https://aws.amazon.com/generative-ai/
 
-### Amazon Web Services AI Services ###
+## Amazon Web Services AI Services ##
 https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning
 
+### Amazon Augmented AI ###
 
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html#amazon-augmented-ai
 
+Amazon Augmented AI (Amazon A2I) is a ML service which makes it easy to build the workflows required for human review. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers, whether it runs on AWS or not.
+
+### Amazon Bedrock ###
+Amazon Bedrock is a fully managed service that makes foundational models (FMs) from Amazon and leading AI startups available through an API. With the Amazon Bedrock serverless experience, you can quickly get started, experiment with FMs, privately customize them with your own data, and seamlessly integrate and deploy FMs into your AWS applications.
+You can choose from a variety of foundation models, including Amazon Titan, Claude 2 from Anthropic, Command and Embed from Cohere, Jurassic-2 from AI21 Studio, and Stable Diffusion from Stability AI.
+
+### 
 
 
 
