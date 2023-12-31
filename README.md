@@ -26,6 +26,10 @@ https://aws.amazon.com/generative-ai/
 ## Amazon Web Services AI Services ##
 https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning
 
+## AWS Cloud Complete Bootcamp Course ## 
+
+https://www.youtube.com/watch?v=zA8guDqfv40
+
 ### Amazon Augmented AI ###
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html#amazon-augmented-ai
