@@ -26,6 +26,11 @@ https://aws.amazon.com/generative-ai/
 ## Amazon Web Services AI Services ##
 https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning
 
+## Amazon Q - Generative AI Assistant ##
+### To install Amazon Q Developer for FREE: Open the VS Code Extensions, Search for "AWS Toolkit", Click Install and follow the prompts ###
+
+https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/
+
 ## AWS Cloud Complete Bootcamp Course ## 
 
 https://www.youtube.com/watch?v=zA8guDqfv40
