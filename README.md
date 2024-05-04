@@ -17,87 +17,39 @@
 
 ## AWS AI Research Scientist ##
 
-###  ** MAY 2024 ** ##
-
 |      **AWS AI CATEGORY**    |     **AWS SERVICES SUMMARIES**     |    **RESOURCE LINKS**   |    
 | --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | 
 | 1. **Machine Learning (ML) and Artificial Intelligence** | **Machine Learning (ML) and Artificial Intelligence (AI).** |[Amazon Docs](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html/) |  
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
-| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **AWS Cloud Complete Bootcamp Course. ** | **AWS Cloud Complete Bootcamp Course.** | [Amazon Docs](https://www.youtube.com/watch?v=zA8guDqfv40/)| 
+| 3. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-a/)| 
+| 2. **Amazon Web Services AI Services. ** | **Amazon Web Services AI Services.** | [Amazon Docs](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning/)| 
+| 2. **Amazon-Q-Generative AI Assistant. ** | **Amazon-Q-Generative AI Assistant.** | [Amazon Docs](https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience//)| 
+| 2. **Amazon Augmented AI. ** | **Amazon Augmented AI (Amazon A2I) is a ML service which makes it easy to build the workflows required for human review. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers, whether it runs on AWS or not.** | [Amazon Docs](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html#amazon-augmented-ai/)| 
+| 2. **Amazon Bedrock. ** | **Amazon Bedrock is a fully managed service that makes foundational models (FMs) from Amazon and leading AI startups available through an API. With the Amazon Bedrock serverless experience, you can quickly get started, experiment with FMs, privately customize them with your own data, and seamlessly integrate and deploy FMs into your AWS applications.
+You can choose from a variety of foundation models, including Amazon Titan, Claude 2 from Anthropic, Command and Embed from Cohere, Jurassic-2 from AI21 Studio, and Stable Diffusion from Stability AI..** | [Amazon Docs](https://aws.amazon.com/bedrock/)| 
+| 2. **Amazon CodeGuru. ** | **Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application’s most expensive lines of code. Integrate CodeGuru into your existing software development workflow to automate code reviews during application development and continuously monitor application's performance in production and provide recommendations and visual clues on how to improve code quality, application performance, and reduce overall cost..** | [Amazon Docs](https://aws.amazon.com/codeguru/)| 
+| 2. **Amazon CodeWhisperer. ** | **Designed to improve developer productivity, Amazon CodeWhisperer provides ML–powered code recommendations to accelerate development of C#, Java, JavaScript, Python, and TypeScript applications. The service integrates with multiple integrated development environments (IDEs), including JetBrains (IntelliJ IDEA, PyCharm, WebStorm, and Rider), Visual Studio Code, AWS Cloud9, and the AWS Lambda console, and helps developers write code faster by generating entire functions and logical blocks of code—often consisting of more than 10–15 lines of code.** | [Amazon Docs](https://aws.amazon.com/codewhisperer/)| 
+| 3. ** Amazon Comprehend. ** | **Amazon Comprehend uses ML and natural language processing (NLP) to help you uncover the insights and relationships in your unstructured data. The service identifies the language of the text; extracts key phrases, places, people, brands, or events; understands how positive or negative the text is; analyzes text using tokenization and parts of speech; and automatically organizes a collection of text files by topic. You can also use AutoML capabilities in Amazon Comprehend to build a custom set of entities or text classification models that are tailored uniquely to your organization’s needs.For extracting complex medical information from unstructured text, you can use Amazon Comprehend Medical. The service can identify medical information, such as medical conditions, medications, dosages, strengths, and frequencies from a variety of sources like doctor’s notes, clinical trial reports, and patient health records. Amazon Comprehend Medical also identifies the relationship among the extracted medication and test, treatment and procedure information for easier analysis. For example, the service identifies a particular dosage, strength, and frequency related to a specific medication from unstructured clinical notes.** | [Amazon Docs](https://aws.amazon.com/comprehend/features//)| 
+| 4. **Amazon DevOps Guru. ** | **Amazon DevOps Guru is an ML-powered service that makes it easy to improve an application’s operational performance and availability. Amazon DevOps Guru detects behaviors that deviate from normal operating patterns so you can identify operational issues long before they impact your customers.** | [Amazon Docs](https://aws.amazon.com/devops-guru//)| 
+| 5. **Amazon Forecast. ** | **Amazon Forecast is a fully managed service that uses ML to deliver highly accurate forecasts.** | [Amazon Docs](https://docs.aws.amazon.com/forecast/latest/dg/what-is-forecast.html/)| 
+| 6. **Amazon Fraud Detector. ** | **Amazon Fraud Detector is a fully managed service that uses ML and more than 20 years of fraud detection expertise from Amazon, to identify potentially fraudulent activity so customers can catch more online fraud faster. Amazon Fraud Detector automates the time consuming and expensive steps to build, train, and deploy an ML model for fraud detection, making it easier for customers to leverage the technology. Amazon Fraud Detector customizes each model it creates to a customer’s own dataset, making the accuracy of models higher than current one-size fits all ML solutions. And, because you pay only for what you use, you avoid large upfront expenses..** | [Amazon Docs](https://aws.amazon.com/fraud-detector/)| 
+| 7. **Amazon Comprehend Medical. ** | **Over the past decade, AWS has witnessed a digital transformation in health, with organizations capturing huge volumes of patient information every day. But this data is often unstructured and the process to extract this information is labor-intensive and error-prone. Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning that has been pre-trained to understand and extract health data from medical text, such as prescriptions, procedures, or diagnoses. Amazon Comprehend Medical can help you extract information from unstructured medical text accurately and quickly with medical ontologies like ICD-10-CM, RxNorm, and SNOMED CT and in turn accelerate insurance claim processing, improve population health, and accelerate pharmacovigilance.** | [Amazon Docs](https://pages.awscloud.com/Extract-Health-Data-Amazon-Comprehend-Medical_2022_0302-MCL_OD.html/)| 
+| 8. **Amazon Kendra. ** | **Amazon Kendra is an intelligent search service powered by ML. Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories within your organization..** | [Amazon Docs](https://aws.amazon.com/kendra//)| 
+| 9. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 10. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 11. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 12. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 13. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 14. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 15. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 16. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 17. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
+| 18. ** Amazon Lex. ** | **Amazon Lex is a fully managed artificial intelligence (AI) service to design, build, test, and deploy conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions, and create new categories of products.** | [Amazon Docs](https://aws.amazon.com/lex//)| 
 
 
 
 
 
-### Generative AI for every business ###
-https://aws.amazon.com/generative-ai/
-
-## Amazon Web Services AI Services ##
-https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf#machine-learning
-
-## Amazon Q - Generative AI Assistant ##
-### To install Amazon Q Developer for FREE: Open the VS Code Extensions, Search for "AWS Toolkit", Click Install and follow the prompts ###
-
-https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/
-
-## AWS Cloud Complete Bootcamp Course ## 
-
-https://www.youtube.com/watch?v=zA8guDqfv40
-
-### Amazon Augmented AI ###
-
-https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html#amazon-augmented-ai
-
-Amazon Augmented AI (Amazon A2I) is a ML service which makes it easy to build the workflows required for human review. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers, whether it runs on AWS or not.
-
-### Amazon Bedrock ###
-Amazon Bedrock is a fully managed service that makes foundational models (FMs) from Amazon and leading AI startups available through an API. With the Amazon Bedrock serverless experience, you can quickly get started, experiment with FMs, privately customize them with your own data, and seamlessly integrate and deploy FMs into your AWS applications.
-You can choose from a variety of foundation models, including Amazon Titan, Claude 2 from Anthropic, Command and Embed from Cohere, Jurassic-2 from AI21 Studio, and Stable Diffusion from Stability AI.
-
-### Amazon CodeGuru ###
-
-Amazon CodeGuru is a developer tool that provides intelligent recommendations to improve code quality and identify an application’s most expensive lines of code. Integrate CodeGuru into your existing software development workflow to automate code reviews during application development and continuously monitor application's performance in production and provide recommendations and visual clues on how to improve code quality, application performance, and reduce overall cost.
-
-### Amazon CodeWhisperer ###
-
-Designed to improve developer productivity, Amazon CodeWhisperer provides ML–powered code recommendations to accelerate development of C#, Java, JavaScript, Python, and TypeScript applications. The service integrates with multiple integrated development environments (IDEs), including JetBrains (IntelliJ IDEA, PyCharm, WebStorm, and Rider), Visual Studio Code, AWS Cloud9, and the AWS Lambda console, and helps developers write code faster by generating entire functions and logical blocks of code—often consisting of more than 10–15 lines of code.
-
-### Amazon Comprehend ###
-
-Amazon Comprehend uses ML and natural language processing (NLP) to help you uncover the insights and relationships in your unstructured data. The service identifies the language of the text; extracts key phrases, places, people, brands, or events; understands how positive or negative the text is; analyzes text using tokenization and parts of speech; and automatically organizes a collection of text files by topic. You can also use AutoML capabilities in Amazon Comprehend to build a custom set of entities or text classification models that are tailored uniquely to your organization’s needs.
-
-For extracting complex medical information from unstructured text, you can use Amazon Comprehend Medical. The service can identify medical information, such as medical conditions, medications, dosages, strengths, and frequencies from a variety of sources like doctor’s notes, clinical trial reports, and patient health records. Amazon Comprehend Medical also identifies the relationship among the extracted medication and test, treatment and procedure information for easier analysis. For example, the service identifies a particular dosage, strength, and frequency related to a specific medication from unstructured clinical notes.
-
-### Amazon DevOps Guru ###
-
-Amazon DevOps Guru is an ML-powered service that makes it easy to improve an application’s operational performance and availability. Amazon DevOps Guru detects behaviors that deviate from normal operating patterns so you can identify operational issues long before they impact your customers.
-
-### Amazon Forecast ### 
-Amazon Forecast is a fully managed service that uses ML to deliver highly accurate forecasts.
-
-### Amazon Fraud Detector ###
-
-Amazon Fraud Detector is a fully managed service that uses ML and more than 20 years of fraud detection expertise from Amazon, to identify potentially fraudulent activity so customers can catch more online fraud faster. Amazon Fraud Detector automates the time consuming and expensive steps to build, train, and deploy an ML model for fraud detection, making it easier for customers to leverage the technology. Amazon Fraud Detector customizes each model it creates to a customer’s own dataset, making the accuracy of models higher than current one-size fits all ML solutions. And, because you pay only for what you use, you avoid large upfront expenses.
-
-### Amazon Comprehend Medical ###
-
-Over the past decade, AWS has witnessed a digital transformation in health, with organizations capturing huge volumes of patient information every day. But this data is often unstructured and the process to extract this information is labor-intensive and error-prone. Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning that has been pre-trained to understand and extract health data from medical text, such as prescriptions, procedures, or diagnoses. Amazon Comprehend Medical can help you extract information from unstructured medical text accurately and quickly with medical ontologies like ICD-10-CM, RxNorm, and SNOMED CT and in turn accelerate insurance claim processing, improve population health, and accelerate pharmacovigilance.
-
-### Amazon Kendra ###
-
-Amazon Kendra is an intelligent search service powered by ML. Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they are looking for, even when it’s scattered across multiple locations and content repositories within your organization.
 
 #### Amazon Lex ### 
 
