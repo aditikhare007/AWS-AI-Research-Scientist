@@ -1,4 +1,4 @@
-# Aditi_AWS_AI_Portfolio
+# AWS AI Research Scientist # 
 
 ## Greetings AI Community 👋 About me 
 
@@ -11,14 +11,35 @@
 
 ** Global Top AI Community Member @Landing.AI @MLOPS Community, @Pandas AI, @Full Stack Deep Learning, @humaneai @H2o.ai Generative AI, @Modular & @Cohere AI @hugging Face Research Papers Group @Papers with Code @DAIR.AI ** ** Completed 90+ Online Technical Paid Courses from Udemy & Coursera as I believe in Continuous Learning and Growth Mindset **
 
-## ** Aditi AWS AI Portfolio ** ##
+## ** AWS AI Research Scientist ** ##
 
-<a href="https://github.com/aditikhare007/Aditi_AWS_AI_Portfolio" class="button icon search"> ** Aditi AWS AI Portfolio** </a> 
+<a href="https://github.com/aditikhare007/AWS-AI-Research-Scientist" class="button icon search"> ** AWS AI Research Scientist ** </a> 
 
-## AWS & AI Research Specialist ##
+## AWS AI Research Scientist ##
 
-### Machine Learning (ML) and Artificial Intelligence (AI) ###
-https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html
+###  ** MAY 2024 ** ##
+
+|      **AWS AI CATEGORY**    |     **AWS SERVICES SUMMARIES**     |    **RESOURCE LINKS**   |    
+| --------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------- | 
+| 1. **Machine Learning (ML) and Artificial Intelligence** | **Machine Learning (ML) and Artificial Intelligence (AI).** |[Amazon Docs](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html/) |  
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+| 2. **Generative AI for every business. ** | **Generative AI for every business.** | [Amazon Docs](https://aws.amazon.com/generative-ai/)| 
+
+
+
+
 
 ### Generative AI for every business ###
 https://aws.amazon.com/generative-ai/
